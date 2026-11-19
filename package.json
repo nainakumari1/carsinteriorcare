@@ -1,0 +1,9 @@
+{
+  "name": "cars-interior-care",
+  "version": "1.0.0",
+  "description": "Cars Interior Care – mobile detailing website (Toronto & GTA)",
+  "private": true,
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
